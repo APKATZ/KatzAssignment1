@@ -1,1 +1,3 @@
 # KatzAssignment1
+
+One thing I learned from reading is that we can combine vertices into matrixes. I was surprised that the biggest matrix we can have is only 4x4. However through the process of pipelining we can render several metaxies at the same time. Another thing I learned in the reading is the use of Fragments. A fragment (as I understood it) is a piece of data that hold all the information for a pixel. These fragments can also hold more information regarding other fragments position and pipeline status. The book refers to fragments as “potential pixels,” and explains further how they can be used to generate computer images more efficiently. 
